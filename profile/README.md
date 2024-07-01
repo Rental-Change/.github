@@ -1,5 +1,5 @@
 # 👀 Rental-Change
-![Logo](https://github.com/https-github-com-icu/.github/assets/122202949/9d4455be-a71e-45da-865e-889253d5d745)
+![Logo](https://github.com/Rental-Change/.github/assets/122202949/4e853cf0-31b3-482a-871f-f55b41165d90)
 
 ### Repository 
 - [RC Client](https://github.com/Rental-Change/RC-client) <br>
