@@ -8,10 +8,11 @@
 <br>
 
 
-## Team
-우리 팀은 다양한 배경과 전문성을 가진 사람들로 구성되어 있습니다.
-
-- **Lee Suyeon**: Backend & Frontend
-- **Jung Daehun**: Backend & Frontend
-
+## Teamhttps://github.com/Jung-DaeHun
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/leeluse"><img src="https://github.com/AgeBloomers/.github/assets/65272297/9c07a41c-0d21-4f43-b0c8-41206b2ece3e" width="250px;" alt=""/><br />Suyeon Lee (팀장)<br />(Backend & Frontend & Design)</td>
+    <td align="center"><a href="https://github.com/Jung-DaeHun"><img src="" width="250px;" alt=""/><br />DaeHun Jung (팀원)<br />(Backend & Design))</td>
+  </tr>
+</table>
 
